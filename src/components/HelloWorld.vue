@@ -73,9 +73,6 @@ export default {
     }
   },
   directives:{Clickoutside},
-  beforeMount(){
-    console.log(this.$refs.di)
-  },
   created(){
     console.log('hello created')
   },
