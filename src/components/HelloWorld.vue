@@ -51,7 +51,6 @@ export default {
           j3:"数据三"
         }
       ],
-      pro:['j1','j2','j3'],
       options:[
         {
           name:'数据一',
