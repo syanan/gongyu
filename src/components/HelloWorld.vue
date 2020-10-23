@@ -56,7 +56,7 @@ export default {
   },
   directives:{Clickoutside},
   created(){
-    console.log('hello created')
+    // console.log('hello created')
   },
   mounted(){
     console.log('hello mounted')
